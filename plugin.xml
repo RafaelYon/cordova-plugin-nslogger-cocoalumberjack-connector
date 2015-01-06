@@ -18,6 +18,9 @@
             </feature>
         </config-file>
 
+        <header-file src="src/ios/NSLoggerCocoaLumberjackConnectorPlugin.h" />
+        <source-file src="src/ios/NSLoggerCocoaLumberjackConnectorPlugin.m" />
+
         <header-file src="src/ios/CocoaLumberjack/Lumberjack/DDASLLogCapture.h" />
         <header-file src="src/ios/CocoaLumberjack/Lumberjack/DDASLLogger.h" />
         <header-file src="src/ios/CocoaLumberjack/Lumberjack/DDAbstractDatabaseLogger.h" />
