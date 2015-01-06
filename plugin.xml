@@ -48,7 +48,7 @@
 
         <header-file src="src/ios/NSLogger-CocoaLumberjack-connector/DDNSLoggerLogger.h" />
 
-        <source-file src="src/ios/NSLogger-CocoaLumberjack-connector/DDNSLoggerLogger.m" />
+        <source-file src="src/ios/NSLogger-CocoaLumberjack-connector/DDNSLoggerLogger.m" compiler-flags="-fno-objc-arc" />
 
         <framework src="CFNetwork.framework" />
         <framework src="SystemConfiguration.framework" />
