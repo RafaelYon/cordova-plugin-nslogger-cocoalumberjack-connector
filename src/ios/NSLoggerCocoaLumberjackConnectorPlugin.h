@@ -2,6 +2,8 @@
 //  NSLoggerCocoaLumberjackConnectorPlugin.h
 //
 
+#import "NSLoggerCocoaLumberjackConnectorPlugin.h"
+
 #import <Cordova/CDVPlugin.h>
 #import <Cordova/CDVPluginResult.h>
 
