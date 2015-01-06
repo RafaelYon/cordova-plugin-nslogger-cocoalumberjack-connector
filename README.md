@@ -22,5 +22,5 @@ https://github.com/CocoaLumberjack/CocoaLumberjack
 
 2. Install this plugin using PhoneGap/Cordova cli:
 
-        cordova plugin add https://github.com/wnyc/cordova-nslogger-cocoalumberjack-connector-plugin.git
+        cordova plugin add https://github.com/wnyc/cordova-plugin-nslogger-cocoalumberjack-connector.git 
 
