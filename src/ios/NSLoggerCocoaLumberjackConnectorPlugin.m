@@ -2,6 +2,8 @@
 //  NSLoggerCocoaLumberjackConnectorPlugin.m
 //
 
+#import "NSLoggerCocoaLumberjackConnectorPlugin.h"
+
 #import "DDTTYLogger.h"
 #import "DDNSLoggerLogger.h"
 
