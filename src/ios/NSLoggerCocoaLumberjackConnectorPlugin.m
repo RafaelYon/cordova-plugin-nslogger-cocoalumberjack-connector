@@ -7,12 +7,6 @@
 
 int ddLogLevel = LOG_LEVEL_VERBOSE;
 
-@interface NSLoggerCocoaLumberjackConnectorPlugin ()
-
-@property (nonatomic) DDFileLogger *fileLogger;
-
-@end
-
 @implementation NSLoggerCocoaLumberjackConnectorPlugin
 
 #pragma mark Initialization
