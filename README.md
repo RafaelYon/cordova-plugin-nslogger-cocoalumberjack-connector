@@ -9,7 +9,7 @@ This plugin supports PhoneGap/Cordova apps running on iOS.
 This plugin is meant to work with Cordova 3.5.0+ and version 1.4 of NSLogger-CocoaLumberjack-connector.
 
 SDK documentation and integration guides for iOS:
-https://github.com/steipete/NSLogger-CocoaLumberjack-connector  
+https://github.com/steipete/NSLogger-CocoaLumberjack-connector
 https://github.com/fpillet/NSLogger
 https://github.com/CocoaLumberjack/CocoaLumberjack
 
