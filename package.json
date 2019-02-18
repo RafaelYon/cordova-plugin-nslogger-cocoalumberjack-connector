@@ -1,0 +1,33 @@
+{
+  "name": "org.nypr.cordova.nslogger-cocoalumberjack-connector-plugin",
+  "version": "0.1.1",
+  "description": "File List Download Plugin",
+  "cordova": {
+    "id": "org.nypr.cordova.nslogger-cocoalumberjack-connector-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelYon/cordova-plugin-nslogger-cocoalumberjack-connector.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "edskeizer",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/edskeizer/cordova-plugin-nslogger-cocoalumberjack-connector/issues"
+  },
+  "homepage": "https://github.com/edskeizer/cordova-plugin-nslogger-cocoalumberjack-connector"
+}
